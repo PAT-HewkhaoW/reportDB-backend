@@ -2,9 +2,5 @@
 
 
 ````md
-```js
-function myFunction () {
-   return 42;
-}
-```
+start index.html
 ````
